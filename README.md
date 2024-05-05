@@ -15,16 +15,13 @@ need for your feedback to fix problems in this app
 ## SQL Database Setup
 To set up the app, you'll need to create a SQL database with the following tables:
 
-### Users Table
+### Users && Chat Table
 ```sql
 CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `name` varchar(30) NOT NULL
 )
-
-```
-### Chat Table
-```
+------------------------------
 CREATE TABLE `chat` (
   `messgId` int(11) NOT NULL,
   `message` text NOT NULL,
