@@ -6,6 +6,8 @@ This web messaging app is a simple platform designed for users to engage in text
 ## I just trolled with making this web app
 need for your feedback to fix problems in this app
 
+this app is ot completed
+
 ## Features
 - **User Authentication**: Users can create an account or simply enter a username to start chatting.
 - **Real-Time Messaging**: Messages are sent and received in real-time, enabling seamless communication.
@@ -29,4 +31,3 @@ CREATE TABLE `chat` (
   `date` datetime NOT NULL
 )
 ```
-<footer>not Completed</footer>
