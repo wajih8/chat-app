@@ -29,3 +29,4 @@ CREATE TABLE `chat` (
   `date` datetime NOT NULL
 )
 ```
+<footer>not Completed</footer>
